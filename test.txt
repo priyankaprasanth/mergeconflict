@@ -1,1 +1,2 @@
-city1:null
+city1:banglore
+
