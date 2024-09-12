@@ -1,1 +1,1 @@
-city1-abcd
+city1:banglore
